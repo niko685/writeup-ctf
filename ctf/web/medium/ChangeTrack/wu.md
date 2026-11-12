@@ -1,9 +1,5 @@
 # ChangeTrack — NFX CTF Write Up
 
-**Category:** Web  
-**Challenge:** ChangeTrack  
-**Author:** Ariaf
-
 ## 1. Recon
 
 Pertama, aku akses website ChangeTrack dan mulai mengecek fitur yang tersedia. Di aplikasi terdapat halaman untuk mengedit konfigurasi watcher.
